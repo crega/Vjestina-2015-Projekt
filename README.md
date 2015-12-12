@@ -12,7 +12,7 @@ Današnji studenti gledaju puno filmova .Stoga mi je na um pala ideja da napravi
 				For špan te fotografije ,
 				Informacije o glumcima,
 				Informacije o redatelju	.
-Sama aplikacija bi sadržavala funkciju pretraživanja koja bi u potvrdnom slučaju prikazala informacije o filmu , a u suprotnom bi se spajala na IMDB.com stranicu i tamo pokušala naći. Microsoft SQL Server/Microsoft Azure bi koristili kao bazu podataka. Sam UI bi bio drugačiji za desktop odnosno mobilne platforme, optimizacije sučelja su pola posla. Jer ako UI nije user friendly ni same funkcije aplikacije neće doći do izražaja.
+Sama aplikacija bi sadržavala funkciju pretraživanja koja bi u potvrdnom slučaju prikazala informacije o filmu , a u suprotnom bi se spajala na IMDB.com/https://www.themoviedb.org/documentation/api stranicu i tamo pokušala naći. Microsoft SQL Server/Microsoft Azure bi koristili kao bazu podataka. Sam UI bi bio drugačiji za desktop odnosno mobilne platforme, optimizacije sučelja su pola posla. Jer ako UI nije user friendly ni same funkcije aplikacije neće doći do izražaja.
 Mislim da je ova aplikacija dobro smislena cjelina koja nam omogućuje praćenje svijeta sedme umjetnosti , kao i naše afinitete  prema filmovima, te naše relativno znanje o filmovima.
 
 Faze projekta;
